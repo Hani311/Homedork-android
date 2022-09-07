@@ -19,15 +19,10 @@ This organization houses repositories related to the HomeDork smart house system
 ### Workflow
 The project group is divided into 4 smaller subgroups containing 4-5 members. The subgroups are: 
 <ul>
-  <li> Free choice <p> Subgroup leader: <a href="https://github.com/fannysoderlund"> Fanny Söderlund </a> <br>
-                        Repositories: <a href="https://github.com/homedork-se2/Mocked-client"> Mocked client </a> </p> </li>
-  <li> Server/Database <p> Subgroup leader: <a href="https://github.com/OlssonLukas"> Lukas Olsson </a> <br>
-                        Repositories: <a href="https://github.com/homedork-se2/hd-API"> API </a>, <a href="https://github.com/homedork-se2/hd-server"> Server </a> </p> </li>
-  <li> Devices <p> Subgroup leader: <a href="https://github.com/sam-mcmurray"> Sam McMurray </a> <br>
-                        Repositories: <a href="https://github.com/homedork-se2/HomeDork-DeviceSystem"> Device system </a> </p> </li>
-  <li> Units <p> Subgroup leader: <a href="https://github.com/AliHabesh"> Ali Habesh </a> <br>
-                        Repositories: <a href="https://github.com/homedork-se2/Homedork-android"> Android client </a>,  <a href="https://github.com/homedork-se2/HomeDork-WebApp"> Web client </a> </p> </li> </ul>
- 
+  <li> Server/Database </li>
+  <li> Devices </li>
+  <li> Units </li> 
+  <li> Free choice </li> </ul>
  <br>
                         
 #### Management
