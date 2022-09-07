@@ -35,3 +35,22 @@ The project group is divided into 4 smaller subgroups containing 4-5 members. Th
 >
 >Requirements Manager: [Fanny](https://github.com/fannysoderlund)
 
+## Snapshot of the Android app
+
+![Screenshot_20220110-133321](https://user-images.githubusercontent.com/57943681/188948902-3e6473c2-7090-42d3-89d6-3ed667e256d0.jpg)  ![Controle](https://user-images.githubusercontent.com/57943681/188948914-90f175b1-99a4-4677-8784-87863eca945d.jpg)  
+
+
+ ![Settings](https://user-images.githubusercontent.com/57943681/188948926-b9801955-9d80-411a-be2f-964d978928b8.jpg)   ![Calander](https://user-images.githubusercontent.com/57943681/188948932-369d5cb7-6a1e-4b66-bbcb-99aa3c8c47e9.jpg)
+
+
+![Screenshot_20220110-131721](https://user-images.githubusercontent.com/57943681/188948959-7699b896-d265-4196-bf61-60eb4f3ce9e8.jpg)    ![Screenshot_20220110-133017](https://user-images.githubusercontent.com/57943681/188949048-0fb99e4f-db0b-4a0f-99a4-0e8b03b116d7.jpg)   ![add device](https://user-images.githubusercontent.com/57943681/188949335-c673287d-329b-4781-a7bb-e5b96066dc80.jpg)
+
+
+
+
+
+
+
+
+
+
