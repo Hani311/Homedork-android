@@ -30,6 +30,13 @@ The project group is divided into 4 smaller subgroups containing 4-5 members. Th
 >
 >Requirements Manager: [Fanny](https://github.com/fannysoderlund)
 
+
+
+## A demo of the app
+ https://youtu.be/_ikM-PH9UUw
+
+
+
 ## Snapshot of the Android app
 
 ![Screenshot_20220110-133321](https://user-images.githubusercontent.com/57943681/188948902-3e6473c2-7090-42d3-89d6-3ed667e256d0.jpg)  ![Controle](https://user-images.githubusercontent.com/57943681/188948914-90f175b1-99a4-4677-8784-87863eca945d.jpg)  
